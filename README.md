@@ -6,10 +6,6 @@ Welcome to my portfolio, showcasing my expertise in building robust, dynamic, an
 
 Here you can find links to live versions of my deployed projects:
 
-* **Arcade Ascend (Mini-Game Web App Prototype):** [https://minigameapp-prototype.onrender.com](https://minigameapp-prototype.onrender.com)
-    * *Description:* A full-stack mini-game prototype demonstrating user authentication (guest, registration, login), dynamic UI control, and basic game data tracking with persistence via a Node.js/Express.js backend.
-    * *Technologies:* HTML5, CSS3, JavaScript, Node.js, Express.js, JSON (file-based DB), Render (deployment).
-
 ## Upcoming & Future Projects
 
 This section will be updated as I add more projects to my portfolio. Stay tuned for new applications demonstrating a wider range of technologies and functionalities, including:
